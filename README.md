@@ -9,7 +9,7 @@ While Spotify Wrapped offers a yearly snapshot of listening habits, this Power B
 
 **About the Dataset**
 
-The dataset used in this project is derived from Maven Analytics Music Challenge, provides users with a yearly summary of their listening habits. The data spans from 2013 to 2024 and includes the following key metrics:
+The dataset used in this project is derived from **Maven Analytics Music Challenge**, provides users with a yearly summary of their listening habits. The data spans from 2013 to 2024 and includes the following key metrics:
 
 - **ms_played:** Number of milliseconds the stream was played
 - **track_name:** Name of the track
@@ -69,3 +69,5 @@ The Power BI dashboard is designed to provide a clear and interactive visualizat
 **Key Summary**
 
 From 2013 to 2024, users top artist was The Beatles, with a total listening time of 336.16 hours. Throughout these years, user spent a significant portion of time listening to music, totaling 5.34k hours overall. Users most played track during this period was Ode to the Mets, and user primarily listened to it on their Android platform. As for albums, users favorite was The New Abnormal, which stood out as the album they enjoyed the most during this time.
+
+Published in https://mavenanalytics.io/project/26024
